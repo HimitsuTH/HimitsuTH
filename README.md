@@ -1,4 +1,4 @@
-### Hi , I'm Chinnawich Ampai 👋
+### Hi , I'm Chinnawich 👋
 
 <!--
 **HimitsuTH/HimitsuTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
