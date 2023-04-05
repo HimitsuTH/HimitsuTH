@@ -1,4 +1,6 @@
-### Hi , I'm Chinnawich 👋
+## Hi , there 👋
+
+<br>
 
 <!--
 **HimitsuTH/HimitsuTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+[![HimitsuTH github stats](https://github-readme-stats.vercel.app/api?username=HimitsuTH&title_color=4D5D8E&show_icons=true&icon_color=4D5D8E&text_color=333&bg_color=fff&count_private=true&include_all_commits=true)](https://github.com/HimitsuTH/HimitsuTH)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimitsuTH&title_color=4D5D8E&layout=compact&langs_count=6&hide=jupyter%20notebook)
+
+</div>
