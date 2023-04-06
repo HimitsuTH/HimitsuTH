@@ -17,10 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+### Github Stats
 
-[![HimitsuTH github stats](https://github-readme-stats.vercel.app/api?username=HimitsuTH&title_color=4D5D8E&show_icons=true&icon_color=4D5D8E&text_color=333&bg_color=fff&count_private=true&include_all_commits=true)](https://github.com/HimitsuTH/HimitsuTH)
+![HimitsuTH github stats](https://github-readme-stats.vercel.app/api?username=HimitsuTH&title_color=4D5D8E&show_icons=true&icon_color=4D5D8E&text_color=333&bg_color=fff&count_private=true&include_all_commits=true)
 
+
+
+### Languages
+<br>
+ 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimitsuTH&title_color=4D5D8E&layout=compact&langs_count=6&hide=jupyter%20notebook)
 
-</div>
+
