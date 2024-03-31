@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinnawich</h1>
 
-- 🔭 I'm currently study in **Thai-Nichi Institute of Technology**
+- 🔭 I'm Graduated from **Thai-Nichi Institute of Technology**
 
 - 🌱 I’m currently learning **NodeJS,TypeScript**
 
