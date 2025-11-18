@@ -2,7 +2,7 @@
 
 - 🔭 I'm Graduated from **Thai-Nichi Institute of Technology**
 
-- 🌱 I’m currently learning **NodeJS,TypeScript**
+- 🌱 currently learning **NodeJS,TypeScript**
 
 
 
